@@ -1,5 +1,5 @@
 # Hacktoberfest 2022 `OPEN FIRST` Pull Request - `FREE T-SHIRT`🎉
-![Hacktoberfest 2021](static/logo.png)
+![Hacktoberfest 2021](.github/logo.png)
 
 
 ## Contributors of `Hacktoberfest 2022`
@@ -30,10 +30,10 @@
 
 </div>
 
-## Instructions-
+## Instructions
 
-- Fork this Repository using the button at the top
-- Clone your forked repository to your pc ( git clone "url from clone option.)
+- Fork this Repository using the button at the top on right corner.
+- Clone your forked repository to your pc ( git clone "url from clone option".)
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` or simply do `git checkout -b new-user`)
 - Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
 - Add your profile data in `content/participant/`
@@ -59,7 +59,7 @@ static/images/<YOUR-USERNAME>.png
 Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
 
 ```
-content/participant/<YOUR-USERNAME>.md/
+content/participant/<YOUR-USERNAME>.md
 ```
 
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
@@ -72,9 +72,27 @@ github:USERNAME
 ---
 ```
 
+<div align="center">
+<h2> OR </h2>
+</div>
+
+## 3. Create / Upload Your Code / Algorithms
+
+Create/Upload your code in folder following the convention `Add Code Here`
+- Choose an extact lanaguage folder `drop your code`
+- Below is `an example` to add file properly
+- You can follow up `any languages`
+```
+Add Code Here/PYTHON/<YOUR-FILERNAME>.py
+```
+```
+Add Code Here/C++/<YOUR-FILERNAME>.cpp
+```
+You can follow any pathway a `code` or `profile information`
+
 ## 4. Wait for Pull Request to merge
 
-## 5. Celebrate - you've done your first pull request!!
+## 5. Celebrate - you've done your first pull request!!!!!
 
 ```py
 '''
@@ -92,7 +110,7 @@ keep in mind that repo has hacktoberfest topic..
 
 ```py
 '''
-To get approval of the pull request much quicker (`Follow Me`)🚀
+To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 '''
 ```
 
