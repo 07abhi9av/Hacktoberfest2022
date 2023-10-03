@@ -1,18 +1,18 @@
-# Hacktoberfest 2022 `OPEN FIRST` Pull Request - `FREE T-SHIRT`🎉
-![Hacktoberfest 2021](static/logo.png)
+# HacktoberFest 2023 `OPEN FIRST` Pull Request - `FREE T-SHIRT`🎉
+![HacktoberFest 2021](https://github.com/ossamamehmood/Hacktoberfest2023/raw/main/.github/logo.png)
 
 
-## Contributors of `Hacktoberfest 2022`
+## Contributors of `Hacktoberfest 2023`
 
 <div align="center">
 
-<a href="https://github.com/ossamamehmood/Hacktoberfest2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2022" />
+<a href="https://github.com/ossamamehmood/Hacktoberfest2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ossamamehmood/Hacktoberfest2023" />
 </a>
   
   </div>
 
-## This project is perfect for your first pull request
+## This Project Is Perfect For Your First Pull Request
 
 🗣 **Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the challenge and earn a limited edition T-shirt.**
 
@@ -20,19 +20,19 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet" alt="Hacktober Badge"/>
+<img src="https://img.shields.io/badge/hacktoberfest-2023-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/ossamamehmood" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/ossamamehmood/hacktoberfest2022/pulls"><img src="https://img.shields.io/github/issues-pr/ossamamehmood/hacktoberfest2022" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/ossamamehmood/hacktoberfest2022/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ossamamehmood/hacktoberfest2022?color=2b9348"></a>
-<a href="https://github.com/ossamamehmood/hacktoberfest2022/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ossamamehmood/hacktoberfest2022?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/ossamamehmood/hacktoberfest2023/pulls"><img src="https://img.shields.io/github/issues-pr/ossamamehmood/hacktoberfest2023" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/ossamamehmood/hacktoberfest2023/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ossamamehmood/hacktoberfest2023?color=2b9348"></a>
+<a href="https://github.com/ossamamehmood/hacktoberfest2023/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ossamamehmood/hacktoberfest2023?color=2b9348" alt="License Badge"/></a>
 
 </div>
 
-## Instructions-
+## INSTRUCTIONS-
 
-- Fork this Repository using the button at the top
+- Fork this Repository using the button at the top on right corner.
 - Clone your forked repository to your pc ( git clone "url from clone option.)
 - Create a new branch for your modifications (ie. `git branch new-user` and check it out `git checkout new-user` or simply do `git checkout -b new-user`)
 - Add your profile image in `static/images/` ( use drag and drop option or upload by commands.)
@@ -41,7 +41,7 @@
 - Create a pull request
 - Star this repository
 
-# How to make your first Pull Request
+# How To Make Your First Pull Request
 
 Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
 
@@ -59,7 +59,7 @@ static/images/<YOUR-USERNAME>.png
 Create a markdown file in your folder following the convention `content/participant/<YOUR-USERNAME>.md`. Ex.
 
 ```
-content/participant/<YOUR-USERNAME>.md/
+content/participant/<YOUR-USERNAME>.md
 ```
 
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
@@ -71,6 +71,24 @@ institution/company: INSTITUTION_NAME
 github:USERNAME
 ---
 ```
+
+<div align="center">
+<h2> OR </h2>
+</div>
+
+## 3. Create / Upload Your Code / Algorithms
+
+Create/Upload your code in folder following the convention `Add Code Here`
+- Choose an extact lanaguage folder `drop your code`
+- Below is `an example` to add file properly
+- You can follow up `any languages`
+```
+Add Code Here/PYTHON/<YOUR-FILERNAME>.py
+```
+```
+Add Code Here/C++/<YOUR-FILERNAME>.cpp
+```
+You can follow any pathway a `code` or `profile information`
 
 ## 4. Wait for Pull Request to merge
 
@@ -92,7 +110,7 @@ keep in mind that repo has hacktoberfest topic..
 
 ```py
 '''
-To get approval of the pull request much quicker (`Follow Me`)🚀
+To get approval of the pull request much quicker and faster (`Follow Me`)🚀
 '''
 ```
 
